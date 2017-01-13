@@ -1,4 +1,4 @@
-# New Site Template
+# Jumbotron template offline
 
 В данном репозитории собраны все внешние зависимости для нового сайта на основе шаблона [Jumbotron](http://getbootstrap.com/examples/jumbotron/).
 
